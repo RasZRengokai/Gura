@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6285179836603@s.whatsapp.net","6285179836603@s.whatsapp.net"],
+    "ownerName": "YASSxOFC",
+    "instagram" : "https://youtube.com/@yassxofc",
+    "gcwa" : "https://whatsapp.com/channel/0029Vafbm6fDjiOah7S3B03R",
+    "botName": "GawrGura-V2",
+    "footer": "2023 © yassx.ofc",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Gura.jpg",
+    "BotKey": "your key",
+    "OpenAIKey": "your openai key",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": false,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": false,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
